@@ -1,0 +1,30 @@
+body{
+    margin: 0 auto;
+    font-family: Verdana;
+}
+header, footer{
+    color: white;
+    background-color: #4682B4;
+    text-align: center;
+    font-size: 120%;
+    padding: 20px;
+    clear: both;
+}
+#lewy{
+    width: 40%;
+    height: 500px;
+    background-color: #40E0D0;
+    float: left;
+
+}
+#prawy{
+    width: 60%;
+    height: 500px;
+    background-color: #40E0D0;
+    float: left;
+}
+img{
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #000080;
+}
